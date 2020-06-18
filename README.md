@@ -1,2 +1,6 @@
 # Test Project X
- TestNewRepo
+ Github Orientation
+
+
+##  What I am doing now?
+practice Github basics.
